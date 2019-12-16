@@ -1,1 +1,1 @@
-# world_flashcard
+# word_flashcard
